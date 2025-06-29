@@ -1,6 +1,6 @@
 # 📂 Distributor - Downloads Folder Organizer
 
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A program that automatically organizes files in your "Downloads" folder into categories.
 
